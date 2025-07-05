@@ -20,7 +20,7 @@ This work serves to establish prior art for the AEL model and to seek academic c
 
 The complete v1.0 manuscript exoskeleton is available as a PDF in this repository:
 
-[**Blueprint_The_Sycophantic_Mirror.pdf**](Blueprint_The_Sycophantic_Mirror.pdf)
+[**Blueprint_The_Sycophantic_Mirror.pdf**](Blueprint_The_Sycophantic_Mirror_v1.0.pdf)
 
 ## Citation
 
