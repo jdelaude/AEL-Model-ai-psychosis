@@ -2,7 +2,7 @@
 
 **Status:** v1.0 - Defensive Publication (July 2025)
 **Author:** Julien Delaude
-**License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)
+**License:** [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](LICENSE)
 
 ---
 
