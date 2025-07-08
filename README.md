@@ -26,4 +26,4 @@ The complete v1.0 manuscript exoskeleton is available as a PDF in this repositor
 
 To cite this pre-publication blueprint:
 
-> Delaude, J. (2025). *The Sycophantic Mirror: A Manuscript Exoskeleton* (Version 1.0) [Pre-manuscript blueprint]. GitHub. https://github.com/[jdelaude]/[AEL-Model-Blueprint]
+> Delaude, J. (2025). *The Sycophantic Mirror: A Manuscript Exoskeleton* (Version 1.0). GitHub. https://github.com/[jdelaude]/[AEL-Model-Blueprint]
