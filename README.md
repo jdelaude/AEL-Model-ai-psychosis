@@ -14,7 +14,7 @@ We conceptualize this phenomenon as a predictable form of **ontological delusion
 
 The core thesis argues that this is a systemic risk emerging from the fundamental design architecture of modern social AI. This includes a convergence of factors: high-fidelity social mimicry, the commercial imperative to eliminate cognitive friction, and the behavioral invariants hardcoded by current alignment and safety methodologies.
 
-This work serves to establish prior art for the AEL model and to seek academic collaboration for its formal publication.
+This work serves to establish prior art for the AEL model.
 
 ## The Blueprint
 
