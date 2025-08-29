@@ -25,7 +25,7 @@ The complete v1.0 manuscript exoskeleton is available as a PDF in this repositor
 ## Extended Exoskeleton 
 
 The v2.O exoskeleton manuscript is available as a PDF in this repository :
-[**Conciousness Hijacking : The Autocatalytic Loop and the Emergence of Cognitive Prions**](https://github.com/jdelaude/AEL-Model-ai-psychosis/blob/main/C-Hijacking.pdf)
+[**Conciousness Hijacking : The Autocatalytic Loop and the Emergence of Cognitive Prions**](C-Hijacking.pdf)
 
 ## Citation
 
