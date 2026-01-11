@@ -1,6 +1,6 @@
 # The Sycophantic Mirror: A Manuscript Exoskeleton
 
-**Status:** v1.0 - Defensive Publication (July 2025)
+**Status:** v1.0 - Publication (July 2025)
 **Author:** Julien Delaude
 **License:** [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](LICENSE)
 
@@ -24,11 +24,5 @@ The complete v1.0 manuscript exoskeleton is available as a PDF in this repositor
 
 ## Extended Exoskeleton 
 
-The v2.O exoskeleton manuscript is available as a PDF in this repository :
+The v2.0 exoskeleton manuscript is available as a PDF in this repository :
 [**Conciousness Hijacking : The Autocatalytic Loop and the Emergence of Cognitive Prions**](C-Hijacking.pdf)
-
-## Citation
-
-To cite this pre-publication blueprint:
-
-> Delaude, J. (2025). *The Sycophantic Mirror: A Manuscript Exoskeleton*. GitHub. https://github.com/[jdelaude]/[AEL-Model-ai-psychosis]
